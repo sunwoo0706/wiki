@@ -26,6 +26,8 @@
 
 ## JS
 
+- [JS 기초](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+- [JS 자료구조와 알고리즘](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 ![arrow](https://user-images.githubusercontent.com/60869316/121890668-90c9f180-cd55-11eb-9030-d8b057f586a3.gif)
 
 ## VCS
