@@ -5,7 +5,7 @@
 ## INTERNET & WEB
 
 <details>
-   <summary> 펼쳐보기 (👈 Click) </summary>
+   <summary> 펼쳐보기 </summary>
 <br />
 
 - [인터넷은 어떻게 동작하는가?](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)
@@ -21,7 +21,7 @@
 ## HTML
 
 <details>
-   <summary> 펼쳐보기 (👈 Click) </summary>
+   <summary> 펼쳐보기 </summary>
 <br />
   
 - [HTML 기초](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
@@ -33,7 +33,7 @@
 ## CSS
 
 <details>
-   <summary> 펼쳐보기 (👈 Click) </summary>
+   <summary> 펼쳐보기 </summary>
 <br />
   
 - [CSS 기초](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -46,7 +46,7 @@
 ## JS
 
 <details>
-   <summary> 펼쳐보기 (👈 Click) </summary>
+   <summary> 펼쳐보기 </summary>
 <br />
   
 - [JS 기초](https://developer.mozilla.org/ko/docs/Web/JavaScript)
