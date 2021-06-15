@@ -23,7 +23,9 @@
 <details>
    <summary> 펼쳐보기 (👈 Click) </summary>
 <br />
+  
 - [HTML 기초](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+  
 </details>
 
 ![arrow](https://user-images.githubusercontent.com/60869316/121890668-90c9f180-cd55-11eb-9030-d8b057f586a3.gif)
@@ -33,7 +35,9 @@
 <details>
    <summary> 펼쳐보기 (👈 Click) </summary>
 <br />
+  
 - [CSS 기초](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics)
+  
 </details>
 
 ![arrow](https://user-images.githubusercontent.com/60869316/121890668-90c9f180-cd55-11eb-9030-d8b057f586a3.gif)
