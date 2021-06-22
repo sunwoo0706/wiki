@@ -4,12 +4,14 @@ import replaceString from "replace-string";
 import markdown from "remark-parse";
 import remark2rehype from "remark-rehype";
 import html from "rehype-stringify";
+import dotenv from "dotenv";
 import fs from "fs";
+
+dotenv.config();
 
 import { styleSheet } from "./Styles/Style.js";
 
 const app = express();
-const port = 3000;
 const readMe = fs.readFileSync("README.md", "utf-8");
 // md 파일을 긁어옵니다.
 const html_text = unified()
@@ -51,6 +53,6 @@ app.get("/", (req, res) => {
   res.send(htmlElements);
 });
 
-app.listen(port, () => {
-  console.log("Listening server", port);
+app.listen(process.env.PORT || 8080, () => {
+  console.log("Listening server");
 });
