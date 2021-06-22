@@ -1,9 +1,12 @@
 import express from "express";
 import unified from "unified";
+import replaceString from "replace-string";
 import markdown from "remark-parse";
 import remark2rehype from "remark-rehype";
 import html from "rehype-stringify";
 import fs from "fs";
+
+import { styleSheet } from "./Styles/Style.js";
 
 const app = express();
 const port = 3000;
@@ -15,6 +18,14 @@ const html_text = unified()
   .use(html)
   .processSync(readMe);
 
+const ex = html_text.toString();
+
+const htmlEntity = replaceString(
+  ex,
+  '<p><img src="https://user-images.githubusercontent.com/60869316/121890668-90c9f180-cd55-11eb-9030-d8b057f586a3.gif" alt="arrow"></p>',
+  "<hr />"
+);
+
 const htmlElements = `
   <!DOCTYPE html>
   <html lang="ko">
@@ -22,11 +33,16 @@ const htmlElements = `
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="stylesheet" href="Sites/Styles/Style.css">
       <title>MH-frontend-roadmap</title>
+      <style>
+        ${styleSheet}
+      </style>
   </head>
   <body>
-    ${html_text}
+    <section id="roadmapWrapper">
+      ${htmlEntity}
+      <hr />
+    </section>
   </body>
   </html>
 `;
