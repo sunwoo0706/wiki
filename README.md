@@ -1,4 +1,4 @@
-<a href="#">
+<a href="https://github.com/sunwoo0706/GSM-front-roadmap/blob/master/Rules/Rules.md">
   <img src="https://user-images.githubusercontent.com/60869316/121902108-f8863980-cd61-11eb-81b0-e9864cb27200.png" />
 </a>
 
