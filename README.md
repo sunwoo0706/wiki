@@ -13,6 +13,7 @@
 - [도메인 네임의 이해](https://developer.mozilla.org/ko/docs/Learn/Common_questions/What_is_a_domain_name)
 - [DNS의 동작 원리](https://velog.io/@doomchit_3/Internet-DNS-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-IMBETPY)
 - [웹페이지, 웹사이트, 웹서버 그리고 검색엔진의 차이](https://developer.mozilla.org/ko/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
+- [웹서버, 미들웨어, WAS 란?](https://velog.io/@mzsw/%EC%9B%B9%EC%84%9C%EB%B2%84-WAS-%EB%9E%80)
   
 </details>
 
@@ -38,6 +39,8 @@
   
 - [CSS 기초](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [CSS Grid를 게임과 함께](https://cssgridgarden.com/#ko)
+- [CSS FlexBox를 게임과 함께](https://flexboxfroggy.com/#ko)
+- [CSS Selector를 게임과 함께](https://flukeout.github.io/)
   
 </details>
 
