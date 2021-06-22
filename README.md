@@ -38,6 +38,8 @@
   
 - [CSS 기초](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [CSS Grid를 게임과 함께](https://cssgridgarden.com/#ko)
+- [CSS FlexBox를 게임과 함께](https://flexboxfroggy.com/#ko)
+- [CSS Selector를 게임과 함께](https://flukeout.github.io/)
   
 </details>
 
