@@ -41,6 +41,7 @@
 - [CSS Grid를 게임과 함께](https://cssgridgarden.com/#ko)
 - [CSS FlexBox를 게임과 함께](https://flexboxfroggy.com/#ko)
 - [CSS Selector를 게임과 함께](https://flukeout.github.io/)
+- [CSS 반응형 레이아웃](https://developer.mozilla.org/ko/docs/Learn/CSS/CSS_layout/Responsive_Design)
   
 </details>
 
@@ -54,6 +55,7 @@
   
 - [JS 기초](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 - [JS 자료구조와 알고리즘](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+- [JS 문서 객체 모델](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/Introduction)
   
 </details>
 
